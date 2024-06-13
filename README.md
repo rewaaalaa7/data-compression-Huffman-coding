@@ -13,6 +13,7 @@ Huffman coding is an algorithm used for lossless data compression. It assigns va
 
 2. **Decompression**:
     - The compressed file is decoded back to the original text file by traversing the Huffman tree based on the binary codes.
+<img src="اhuffman.png" alt="Sample Image" width="1000" height="500">
 
 ## Features
 
@@ -28,7 +29,6 @@ Huffman coding is an algorithm used for lossless data compression. It assigns va
 2. Upload your text file using the provided file input.
 <img src="compress.png" alt="Sample Image" width="1000" height="500">
 3. Click the "Compress" button to compress the file.
-   
 4. Download the compressed file.
 <img src="compress2.png" alt="Sample Image" width="1000" height="500">
 
